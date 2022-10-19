@@ -1,6 +1,10 @@
 # LED Board in action
 We could not collect the Stemma QT breakout cable, so we decided to use some other GPIOs, we decided to have some fun with the LEDs, and made a morse code display, with the letters DALTON spelled out. the Blue LED indicates the start of a character and Red LED indicates the actual morse code.
-![](https://github.com/saurabhparulekar24/LAB2B_Board_Expansion/blob/main/Video_LED.mp4)
+
+
+https://user-images.githubusercontent.com/57740824/196771296-489f3c70-ab59-427a-a2ef-4c70da26e7f0.mp4
+
+
 
 
 # Proposal for Board Expansion
